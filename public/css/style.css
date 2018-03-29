@@ -1,0 +1,26 @@
+ form label{
+        color: rgb(0, 161, 255);
+        font-size: 18px;
+        font-family:consolas;
+      }
+    
+      h1,h4,h5,h3,h2{
+        color:rgb(0, 161, 255);font-family: consolas;
+        font-size: 20px;
+      }
+      p{
+        font-family:Apple Chancery, cursive;
+        font-size: 25px;
+      }
+      body{
+        background-color: #eee;}
+      #contact{
+        background-color:white;
+      }
+      #conseil,#pharmacie{
+        background-image: url(fond.gif);
+      }
+    #cc{color: black;
+
+    }
+    
